@@ -2,7 +2,7 @@
 1) PROJECT Title:-
  DevopsAssignment - Two-tier Dockerized App
 
-2) Description
+3) Description
   This is a simple full-stack web application demonstrating a CI/CD-ready environment with a Flask backend and a Next.js frontend, containerized using Docker and orchestrated with Docker Compose.
 
 3)Tech Stack
